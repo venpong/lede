@@ -28,3 +28,4 @@ git-src
 .git-credentials
 .github
 .idea
+/*.log
