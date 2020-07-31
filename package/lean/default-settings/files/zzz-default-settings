@@ -59,6 +59,6 @@ rm -rf /tmp/luci-modulecache/
 rm -f /tmp/luci-indexcache
 
 #ss-plus
-echo  0xDEADBEEF > /etc/config/google_fu_mode
+#echo  0xDEADBEEF > /etc/config/google_fu_mode
 
 exit 0
