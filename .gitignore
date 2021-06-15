@@ -29,3 +29,6 @@ git-src
 .idea
 .github
 /*.log
+.project
+.cproject
+.ccache
